@@ -1,0 +1,23 @@
+{
+  "name": "fb-node-generator",
+  "version": "1.0.0",
+  "description": "The flatbuffer and json generator of the list of list of movies...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelbpaulson/fb-node-generator.git"
+  },
+  "keywords": [],
+  "author": {
+      "email": "michael.b.paulson@gmail.com",
+      "name": "Michael Paulson"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelbpaulson/fb-node-generator/issues"
+  },
+  "homepage": "https://github.com/michaelbpaulson/fb-node-generator#readme"
+}
