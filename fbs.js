@@ -2,8 +2,8 @@
 
 const assert = require('assert');
 
-const flatbuffers = require('./../flatbuffers.js').flatbuffers;
-const NetflixFBS = require('./../test_generated.js').Netflix;
+const flatbuffers = require('./flatbuffers').flatbuffers;
+const NetflixFBS = require('./test_generated').Netflix;
 
 function generate(lolomo, unique) {
     // Convert to fbs.
